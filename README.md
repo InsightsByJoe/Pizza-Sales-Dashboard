@@ -84,7 +84,6 @@ The Pizza Sales Dashboard provides clear and actionable insights into pizza sale
 
 ## References
 - **Microsoft Excel [(https://www.microsoft.com/en-us/microsoft-365/excel)
-- **Dashboard Design Guide**: [Effective Dashboard Techniques](https://example-link.com/dashboard-guide)
 
 🍕💻
 
