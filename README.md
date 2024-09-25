@@ -5,6 +5,8 @@ This project involves creating a comprehensive **Pizza Sales Dashboard** using *
 
 The dashboard enables users to filter and view detailed data on **Pizza Category**, **Order Date**, and **Pizza Size** through interactive slicers, making it easy to explore the dataset. Key performance indicators (KPIs) such as **Total Revenue**, **Total Pizzas Sold**, **Total Orders**, **Average Order Value**, and **Average Pizzas per Order** are displayed prominently.
 
+![Pizza Slaes Dashboard](https://github.com/user-attachments/assets/f10fa071-5582-4ab1-875d-a5540e605a9b)
+
 ### Tools Used:
 - **Microsoft Excel**:
   - Pivot Tables
