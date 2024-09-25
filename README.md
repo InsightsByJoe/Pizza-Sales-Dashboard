@@ -81,7 +81,7 @@ From the dashboard analysis, the following insights were discovered:
 The Pizza Sales Dashboard provides clear and actionable insights into pizza sales trends, helping business owners make informed decisions. By focusing on the key trends identified, including time-based sales peaks and category preferences, the business can enhance its operations, promotions, and product offerings.
 
 ## References
-- **Microsoft Excel Official Documentation**: [Excel Functions and Features](https://support.microsoft.com/en-us/excel)
+- **Microsoft Excel [(https://www.microsoft.com/en-us/microsoft-365/excel)
 - **Dashboard Design Guide**: [Effective Dashboard Techniques](https://example-link.com/dashboard-guide)
 
 🍕💻
