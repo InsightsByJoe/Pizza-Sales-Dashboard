@@ -16,7 +16,8 @@ The dashboard enables users to filter and view detailed data on **Pizza Category
 
 ### Download Link:
 [Pizza Sales Dashboard Excel File](https://example-link-to-download.com)
-[Raw Dataset File](https://example-link-to-download-raw-dataset.com)
+
+[Raw Dataset File](https://github.com/InsightsByJoe/Pizza-Sales-Dashboard/blob/main/pizza_sales_raw%20excel%20file.xlsx)
 
 ## Process Overview
 1. **Data Cleaning**:
